@@ -1,9 +1,10 @@
 ---
-title: "Drei Frauen in voller Blüte"
+title: "Wo nur die Liebe blüht"
 description: "Ein inszeniertes musikalisches Blumenbouquet"
 ---
 {{< figure src="/images/ladies1.jpg" title="The Ladies" >}}
 
+Drei Frauen in voller Blüte
 
 ***
 
