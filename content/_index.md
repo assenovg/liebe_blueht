@@ -2,19 +2,12 @@
 title: "Wo nur die Liebe blüht"
 description: "Ein inszeniertes musikalisches Blumenbouquet"
 ---
-{{< figure src="/images/ladies1.jpg" title="The Ladies" >}}
-
-Drei Frauen in voller Blüte
+{{< figure src="/images/ladies1.jpg" title="" >}}
 
 ***
 
-Angela Kerrison, Sopran  
-Nevena Rouben, Mezzosopran  
-Barbara Zollinger-Widmer, Klavier  
-
-***
-
-Julia Bachmann-Schwarzenbach, Regie  
+Premiere: Nova Theater Pfäffikon   
+15.04.2021, 19.00 Uhr
 
 ***
 
