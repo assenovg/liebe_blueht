@@ -7,7 +7,11 @@ description: "Ein inszeniertes musikalisches Blumenbouquet"
 ***
 
 Premiere: Nova Theater Pfäffikon   
-15.04.2021, 19.00 Uhr
+22.05.2021, 19.00 Uhr
+
+***
+
+[![Wo nur die Liebe blüht - The Ladies](/images/vimeo--530287377.jpg)](https://vimeo.com/530287377 "Wo nur die Liebe blüht - The Ladies")
 
 ***
 
