@@ -11,7 +11,7 @@ Premiere: Nova Theater Pfäffikon
 
 ***
 
-[![Wo nur die Liebe blüht - The Ladies](/images/vimeo--530287377.jpg)](https://vimeo.com/530287377 "Wo nur die Liebe blüht - The Ladies")
+[![Wo nur die Liebe blüht - The Ladies](/images/vimeo--530287377.jpg)](https://vimeo.com/531140800 "Wo nur die Liebe blüht - The Ladies")
 
 ***
 
