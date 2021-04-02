@@ -24,6 +24,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
+  env = "production"
   # site_logo = "Liebe blüht"
   description = "Wo nur die Liebe blüht"
   facebook = ""
