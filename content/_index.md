@@ -7,7 +7,7 @@ description: "Ein inszeniertes musikalisches Blumenbouquet"
 ***
 
 Premiere: Nova Theater Pfäffikon   
-22.05.2021, 19.00 Uhr
+16.07.2021, 19.00 Uhr
 
 ***
 
